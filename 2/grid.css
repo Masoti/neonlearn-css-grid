@@ -6,7 +6,6 @@
     grid-template-rows: repeat(2, 100px);
     grid-template-rows: 100px 300px 100px;
     gap: 2px;
-    
 }      
 
 .header {
